@@ -1,3 +1,7 @@
+These are some of the Dashboards that i have made. For the csv or excel file related to these dashboard hasnt been uploaded. If you need the Datasource(csv/excel files) the contact on 
+kaibalyabiswal18@gmail.com
+
+
 **1) The Amazon Prime Movies Dashboard.**
 ![Screenshot 2024-02-07 113609](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/6b70e717-80bd-44c6-9a9e-7e9385bff87a)
 .

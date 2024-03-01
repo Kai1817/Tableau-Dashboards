@@ -40,3 +40,9 @@ kaibalyabiswal18@gmail.com
 **8) Video Games Sales Dashboard**
 ![Screenshot 2024-02-07 122630](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/8c6b0c20-0ae7-4dfd-9795-f2c2a7181c30)
 ![Screenshot 2024-02-07 122645](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/9ec820cc-50f4-42f4-b1f5-6712e33fb6bf)
+
+**9) US-Complaints and Wildfires Dashboards**
+![Screenshot 2024-03-01 200342](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/b4ac31df-7d7c-4aa4-bad6-977d628102c1)
+![Screenshot 2024-03-01 200424](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/b11be08d-38e0-4d8b-b766-2168607ef8e4)
+
+

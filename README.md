@@ -45,4 +45,13 @@ kaibalyabiswal18@gmail.com
 ![Screenshot 2024-03-01 200342](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/b4ac31df-7d7c-4aa4-bad6-977d628102c1)
 ![Screenshot 2024-03-01 200424](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/b11be08d-38e0-4d8b-b766-2168607ef8e4)
 
+**10) Shark Tank Brazil**
+![Screenshot 2024-05-08 123148](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/728231fb-51af-4b87-bb8a-2ec80dc848e4)
 
+
+**11) Insurance Dashboard**
+![Screenshot 2024-05-08 123230](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/9f82f73b-7261-415e-88b2-afaf1efa8d28)
+
+
+**12) Red wine Quality Dashboard**
+![Screenshot 2024-05-08 123119](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/70c2ed09-a616-4dc6-9055-1c8f4684cd5c)

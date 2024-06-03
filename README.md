@@ -33,6 +33,7 @@ kaibalyabiswal18@gmail.com
 ![Screenshot 2024-02-07 122321](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/e41a9f6f-073a-4643-ba3a-24004c60b3c7)
 ![Screenshot 2024-02-07 122401](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/f330730f-e835-425f-b920-5269b9f2c3f3)
 
+
 **7) Srilanka Dengue Cases Dashboard**
 ![Screenshot 2024-02-07 122513](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/c9e345df-a16d-479b-bbc8-2203860531e3)
 
@@ -41,16 +42,14 @@ kaibalyabiswal18@gmail.com
 ![Screenshot 2024-02-07 122630](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/8c6b0c20-0ae7-4dfd-9795-f2c2a7181c30)
 ![Screenshot 2024-02-07 122645](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/9ec820cc-50f4-42f4-b1f5-6712e33fb6bf)
 
+
 **9) US-Complaints and Wildfires Dashboards**
 ![Screenshot 2024-03-01 200342](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/b4ac31df-7d7c-4aa4-bad6-977d628102c1)
 ![Screenshot 2024-03-01 200424](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/b11be08d-38e0-4d8b-b766-2168607ef8e4)
 
+
 **10) Shark Tank Brazil**
 ![Screenshot 2024-05-08 123148](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/728231fb-51af-4b87-bb8a-2ec80dc848e4)
-
-**11) Netflix Dashboard Title**
-![Screenshot 2024-06-03 112352](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/cf1cd6ed-66b0-4656-b3db-b41eae644ed9)
-
 
 
 **11) Insurance Dashboard**
@@ -59,3 +58,7 @@ kaibalyabiswal18@gmail.com
 
 **12) Red wine Quality Dashboard**
 ![Screenshot 2024-05-08 123119](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/70c2ed09-a616-4dc6-9055-1c8f4684cd5c)
+
+
+**13) Netflix Dashboard Title**
+![Screenshot 2024-06-03 112352](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/cf1cd6ed-66b0-4656-b3db-b41eae644ed9)

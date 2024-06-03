@@ -48,6 +48,10 @@ kaibalyabiswal18@gmail.com
 **10) Shark Tank Brazil**
 ![Screenshot 2024-05-08 123148](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/728231fb-51af-4b87-bb8a-2ec80dc848e4)
 
+**11) Netflix Dashboard Title**
+![Screenshot 2024-06-03 112352](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/cf1cd6ed-66b0-4656-b3db-b41eae644ed9)
+
+
 
 **11) Insurance Dashboard**
 ![Screenshot 2024-05-08 123230](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/9f82f73b-7261-415e-88b2-afaf1efa8d28)

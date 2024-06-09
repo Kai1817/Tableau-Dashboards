@@ -62,3 +62,8 @@ kaibalyabiswal18@gmail.com
 
 **13) Netflix Dashboard Title**
 ![Screenshot 2024-06-03 112352](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/cf1cd6ed-66b0-4656-b3db-b41eae644ed9)
+
+
+**Dashboard for Cars**
+![Screenshot 2024-06-09 133047](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/44545a5d-a1ea-41c4-833a-1d25ebf955aa)
+

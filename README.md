@@ -67,3 +67,7 @@ kaibalyabiswal18@gmail.com
 **Dashboard for Cars**
 ![Screenshot 2024-06-09 133047](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/44545a5d-a1ea-41c4-833a-1d25ebf955aa)
 
+
+**Financial Complaints Dashboard**
+![Screenshot 2024-07-02 122711](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/50ecbf3b-1290-4000-892b-9723a9013c99)
+

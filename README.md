@@ -71,3 +71,10 @@ kaibalyabiswal18@gmail.com
 **Financial Complaints Dashboard**
 ![Screenshot 2024-07-02 122711](https://github.com/Kai1817/Tableau-Dashboards/assets/130749315/50ecbf3b-1290-4000-892b-9723a9013c99)
 
+**Facebook Dashboard**
+![Screenshot 2024-07-14 144024](https://github.com/user-attachments/assets/7f579d8d-8efe-4970-86ad-efe4a2f5c6be)
+
+
+**Instagram Dashboard**
+![Screenshot 2024-07-14 143953](https://github.com/user-attachments/assets/f7647a8a-0d60-4311-8580-19a6a69ce46d)
+
